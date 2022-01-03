@@ -12,7 +12,7 @@ print(2**5)
 # Variable assign
 temp = 4+3.3
 print(temp)
-x,y=(1,7)
+x, y = (1, 7)
 print(x)
 print(y)
 

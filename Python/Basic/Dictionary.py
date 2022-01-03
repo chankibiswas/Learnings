@@ -1,12 +1,18 @@
 employee = {123:'Ram',234:'Ramesh',345:'Jignesh'}
 
 print(employee)
+# Print just 1 element
 print(employee[234])
 
+# Update element
+employee[123] = 'XYZ'
+
+# Add a new element
 employee[456] = 'Mohan'
 
 print(employee)
 
+# Delete element
 del employee[123]
 
 print(employee)
