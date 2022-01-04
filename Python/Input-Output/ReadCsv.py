@@ -8,7 +8,7 @@ with open('SampleCsv.csv') as sampleCsv:
     dob = []
     for row in data:
         print(row)
-        print(row[0],row[1],row[2])
+        print(row[0], row[1], row[2])
         employee.append(row[1])
         dob.append(row[2])
     try:
