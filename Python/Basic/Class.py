@@ -3,7 +3,7 @@ class MyCalculator:
     def add(x, y):
         print(x+y)
 
-    def substract(x, y):
+    def subtract(x, y):
         print(x-y)
 
     def multiply(x, y):
