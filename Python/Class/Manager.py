@@ -1,4 +1,4 @@
-from Class.Employee import Employee
+import Employee
 
 
 class Manager(Employee):
